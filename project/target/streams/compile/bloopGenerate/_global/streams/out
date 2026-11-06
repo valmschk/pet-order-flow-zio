@@ -1,0 +1,4 @@
+[debug] [order-flow-zio-build] Classpath dependencies List()
+[debug] [order-flow-zio-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'order-flow-zio-build' to 'C:\order-flow-zio\project\.bloop\order-flow-zio-build.json'
+[success] Generated .bloop\order-flow-zio-build.json
